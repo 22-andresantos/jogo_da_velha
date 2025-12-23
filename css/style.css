@@ -46,7 +46,7 @@ h1 {
 
 .cell {
   aspect-ratio: 1;
-  background: #f0f0f0;
+  background: #dedada;
   border: none;
   border-radius: 15px;
   font-size: 48px;
@@ -59,7 +59,7 @@ h1 {
 }
 
 .cell:hover:not(.taken) {
-  background: #e0e0e0;
+  background: #d0cece;
   transform: scale(1.05);
 }
 
